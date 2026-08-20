@@ -104,7 +104,6 @@ Case 3: 10 + 10
 # Output waveform  
 
 
-<img width="1592" height="892" alt="image" src="https://github.com/user-attachments/assets/207f9486-3c21-49e0-8b01-db035904a2c1" />
 
 
 
