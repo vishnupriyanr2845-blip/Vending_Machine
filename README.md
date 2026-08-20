@@ -101,7 +101,9 @@ Case 3: 10 + 10
    dispense = 1
    change = 1
 
-# Output waveform 
+# Output waveform  
+
+
 <img width="1592" height="892" alt="image" src="https://github.com/user-attachments/assets/207f9486-3c21-49e0-8b01-db035904a2c1" />
 
 <img width="1600" height="1200" alt="WhatsApp Image 2026-08-19 at 11 25 40 AM" src="https://github.com/user-attachments/assets/ef195028-f69a-4bbb-8658-12769b1d61a8" />
