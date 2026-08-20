@@ -103,10 +103,6 @@ Case 3: 10 + 10
 
 # Output waveform  
 
-<img width="1600" height="1200" alt="WhatsApp Image 2026-08-19 at 11 25 40 AM" src="https://github.com/user-attachments/assets/ef195028-f69a-4bbb-8658-12769b1d61a8" />
+<img width="1440" height="1440" alt="image" src="https://github.com/user-attachments/assets/0c3f3d85-1817-4cf6-b9b7-151f75ddf250" />
 
-<img width="1592" height="892" alt="image" src="https://github.com/user-attachments/assets/207f9486-3c21-49e0-8b01-db035904a2c1" />
-
-
-# Conclusion
 The vending machine controller was successfully designed using a Moore FSM model. The simulation verified correct product dispensing and change return behavior for different coin inputs.
